@@ -1,6 +1,6 @@
 {
   "name": "angular-localize",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "title": "angular-localize",
   "description": "A localization module for AngularJS.",
   "keywords": [
@@ -30,12 +30,7 @@
     "url": "git://github.com/blueimp/angular-localize.git"
   },
   "bugs": "https://github.com/blueimp/angular-localize/issues",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://www.opensource.org/licenses/MIT"
-    }
-  ],
+  "license": "MIT",
   "main": [
     "angular-localize.js"
   ],
